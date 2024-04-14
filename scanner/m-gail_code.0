@@ -1,0 +1,14 @@
+// a function definition
+add(a, b)
+    return a + b
+end
+
+// another function definition
+add200 (a,b)
+    i := 200
+    while 0 < i do
+        print(i)
+        i := i - 1
+    end
+    return a + b + i
+end

@@ -1,0 +1,42 @@
+id add
+(
+id a
+,
+id b
+)
+return
+id a
++
+id b
+end
+id add200
+(
+id a
+,
+id b
+)
+id i
+:=
+num 200
+while
+num 0
+<
+id i
+do
+id print
+(
+id i
+)
+id i
+:=
+id i
+-
+num 1
+end
+return
+id a
++
+id b
++
+id i
+end
